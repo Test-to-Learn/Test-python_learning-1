@@ -1,4 +1,6 @@
-Test-python_learning-1
-======================
+Test-of-Learning_python(in the easy way)-1 
+================================================
 
-Guys, this is just a test Repository.So don't bother looking. Am gonna find a way to learn python in more easy way. nothing else to say so ciao.
+Guys, this is just a test Repository.So don't bother looking.
+
+OK, Lest learn python ,shall we ?

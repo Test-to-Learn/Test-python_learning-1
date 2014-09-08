@@ -1,6 +1,6 @@
 OK guys today Its learn python part 2 
 ===============================================
-Today we'll learn about Using the Python Interpreter part 1 (2.1.1 Info on Invoking the Interpreter)
+Today we'll learn about Using the Python Interpreter part 1 (2.1.0 Info on Invoking the Interpreter)
 
 The Python interpreter is usually installedas /usr/local/bin/python3.4 on those machines where it is available;
 Just like putting /usr/local/bin in your Unix shell’s search path makes it possible to start it by typing the command:
